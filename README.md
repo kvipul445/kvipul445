@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvipul445
 - 👀 I’m interested in website development and python projects.
-- 🌱 I’m currently learning angular 12, nodejs and python3.
+- 🌱 I’m currently learning angular 17, nodejs and python3.
 - 💞️ I’m looking to collaborate on angular framework and python3 projects.
 - 📫 Reach me through my mail kvipul445@gmail.com
 
